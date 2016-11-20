@@ -1,0 +1,70 @@
+TIE Fighter:
+    - Rebellion
+    - New Republic
+    - Patrol
+    - Superiority
+TIE Interceptor:
+    - Rebellion
+    - New Republic
+    - Patrol
+    - Superiority
+TIE Bomber:
+    - Rebellion
+    - New Republic
+    - Assault
+    - Patrol: shuttle only
+    - Superiority: shuttle only
+TIE Advanced:
+    - Rebellion
+    - New Republic
+    - Patrol
+    - Superiority
+TIE Punisher:
+    - New Republic
+    - New Order
+    - Assault
+TIE Defender:
+    - New Republic
+    - New Order
+    - Assault: /D only
+    - Patrol: /x7 only
+    - Superiority
+TIE Phantom:
+    - New Republic
+    - New Order
+    - Superiority
+TIE/FO:
+    - New Order
+    - Patrol
+    - Superiority
+TIE/SF:
+    - New Order
+    - Assault
+    - Superiority
+TIE Adv. Prototype:
+    - Rebellion
+    - Superiority
+Firespray:
+    - Rebellion
+    - New Republic
+    - Assault
+    - Patrol
+Lambda Shuttle:
+    - Rebellion
+    - New Republic
+    - Assault
+    - Patrol
+TIE Striker:
+    - Rebellion
+    - Patrol
+    - Superiority
+Upsilon Shuttle:
+    - New Order
+    - Assault
+    - Patrol
+VT-49:
+    - Rebellion
+    - New Republic
+    - Assault
+    - Patrol
+    - Superiority
